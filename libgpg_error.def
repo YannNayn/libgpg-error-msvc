@@ -1,0 +1,10 @@
+EXPORTS
+	gpg_err_init
+	gpg_err_deinit
+	gpg_strerror
+	gpg_strerror_r
+	gpg_strsource
+	gpg_err_code_from_errno
+	gpg_err_code_to_errno
+	gpg_err_code_from_syserror
+	gpg_err_set_errno
